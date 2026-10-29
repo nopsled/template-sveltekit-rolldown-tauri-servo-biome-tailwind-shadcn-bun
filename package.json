@@ -51,7 +51,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.2.0",
     "@sveltejs/adapter-static": "^3.0.9",
-    "@sveltejs/kit": "^2.31.1",
+    "@sveltejs/kit": "^3.1.0",
     "@tauri-apps/cli": "^2.7.1",
     "@types/node": "^24.3.0",
     "svelte": "^5.38.1",
